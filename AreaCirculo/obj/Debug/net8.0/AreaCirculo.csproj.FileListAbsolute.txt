@@ -1,0 +1,14 @@
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\bin\Debug\net8.0\AreaCirculo.exe
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\bin\Debug\net8.0\AreaCirculo.deps.json
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\bin\Debug\net8.0\AreaCirculo.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\bin\Debug\net8.0\AreaCirculo.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\bin\Debug\net8.0\AreaCirculo.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\AreaCirculo.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\refint\AreaCirculo.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\AreaCirculo.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\AreaCirculo.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\AreaCirculo\obj\Debug\net8.0\ref\AreaCirculo.dll

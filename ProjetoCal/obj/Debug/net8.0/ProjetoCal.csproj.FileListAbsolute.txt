@@ -1,0 +1,14 @@
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\bin\Debug\net8.0\ProjetoCal.exe
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\bin\Debug\net8.0\ProjetoCal.deps.json
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\bin\Debug\net8.0\ProjetoCal.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\bin\Debug\net8.0\ProjetoCal.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\bin\Debug\net8.0\ProjetoCal.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ProjetoCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ProjetoCal.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ProjetoCal.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ProjetoCal.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ProjetoCal.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\refint\ProjetoCal.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ProjetoCal.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ProjetoCal.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\ProjetoCal\obj\Debug\net8.0\ref\ProjetoCal.dll

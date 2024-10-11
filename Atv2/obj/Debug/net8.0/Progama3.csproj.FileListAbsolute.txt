@@ -1,0 +1,14 @@
+C:\Users\Joao Vitor\Desktop\c#\Progama3\bin\Debug\net8.0\Progama3.exe
+C:\Users\Joao Vitor\Desktop\c#\Progama3\bin\Debug\net8.0\Progama3.deps.json
+C:\Users\Joao Vitor\Desktop\c#\Progama3\bin\Debug\net8.0\Progama3.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\c#\Progama3\bin\Debug\net8.0\Progama3.dll
+C:\Users\Joao Vitor\Desktop\c#\Progama3\bin\Debug\net8.0\Progama3.pdb
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\Progama3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\Progama3.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\Progama3.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\Progama3.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\Progama3.dll
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\refint\Progama3.dll
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\Progama3.pdb
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\Progama3.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\c#\Progama3\obj\Debug\net8.0\ref\Progama3.dll
