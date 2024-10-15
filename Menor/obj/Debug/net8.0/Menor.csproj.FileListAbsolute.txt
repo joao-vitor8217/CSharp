@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\bin\Debug\net8.0\Menor.exe
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\bin\Debug\net8.0\Menor.deps.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\bin\Debug\net8.0\Menor.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\bin\Debug\net8.0\Menor.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\bin\Debug\net8.0\Menor.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\refint\Menor.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\Menor.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Menor\obj\Debug\net8.0\ref\Menor.dll

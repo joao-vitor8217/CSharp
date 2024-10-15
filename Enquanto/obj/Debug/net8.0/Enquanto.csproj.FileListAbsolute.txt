@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\bin\Debug\net8.0\Enquanto.exe
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\bin\Debug\net8.0\Enquanto.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\bin\Debug\net8.0\Enquanto.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\bin\Debug\net8.0\Enquanto.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\bin\Debug\net8.0\Enquanto.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\refint\Enquanto.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\Enquanto.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Enquanto\obj\Debug\net8.0\ref\Enquanto.dll

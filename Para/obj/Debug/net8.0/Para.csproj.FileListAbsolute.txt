@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\Para\bin\Debug\net8.0\Para.exe
+C:\Users\Joao Vitor\Desktop\CSharp\Para\bin\Debug\net8.0\Para.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\Para\bin\Debug\net8.0\Para.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\Para\bin\Debug\net8.0\Para.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Para\bin\Debug\net8.0\Para.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\refint\Para.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\Para.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Para\obj\Debug\net8.0\ref\Para.dll

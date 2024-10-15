@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\bin\Debug\net8.0\Impar.exe
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\bin\Debug\net8.0\Impar.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\bin\Debug\net8.0\Impar.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\bin\Debug\net8.0\Impar.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\bin\Debug\net8.0\Impar.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\refint\Impar.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\Impar.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Impar\obj\Debug\net8.0\ref\Impar.dll

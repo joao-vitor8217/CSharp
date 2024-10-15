@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\bin\Debug\net8.0\Calculo.exe
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\bin\Debug\net8.0\Calculo.deps.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\bin\Debug\net8.0\Calculo.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\bin\Debug\net8.0\Calculo.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\bin\Debug\net8.0\Calculo.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\refint\Calculo.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\Calculo.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Calculo\obj\Debug\net8.0\ref\Calculo.dll

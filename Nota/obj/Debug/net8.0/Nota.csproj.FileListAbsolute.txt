@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\bin\Debug\net8.0\Nota.exe
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\bin\Debug\net8.0\Nota.deps.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\bin\Debug\net8.0\Nota.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\bin\Debug\net8.0\Nota.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\bin\Debug\net8.0\Nota.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\refint\Nota.dll
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.pdb
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\Nota.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharpie\Nota\obj\Debug\net8.0\ref\Nota.dll
