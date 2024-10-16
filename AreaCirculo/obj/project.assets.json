@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joao Vitor\\Desktop\\CSharpie\\AreaCirculo\\AreaCirculo.csproj",
+      "projectUniqueName": "C:\\Users\\Joao Vitor\\Desktop\\CSharp\\AreaCirculo\\AreaCirculo.csproj",
       "projectName": "AreaCirculo",
-      "projectPath": "C:\\Users\\Joao Vitor\\Desktop\\CSharpie\\AreaCirculo\\AreaCirculo.csproj",
+      "projectPath": "C:\\Users\\Joao Vitor\\Desktop\\CSharp\\AreaCirculo\\AreaCirculo.csproj",
       "packagesPath": "C:\\Users\\Joao Vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joao Vitor\\Desktop\\CSharpie\\AreaCirculo\\obj\\",
+      "outputPath": "C:\\Users\\Joao Vitor\\Desktop\\CSharp\\AreaCirculo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Joao Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
