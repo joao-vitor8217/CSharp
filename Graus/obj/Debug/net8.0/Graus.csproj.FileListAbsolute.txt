@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\bin\Debug\net8.0\Graus.exe
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\bin\Debug\net8.0\Graus.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\bin\Debug\net8.0\Graus.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\bin\Debug\net8.0\Graus.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\bin\Debug\net8.0\Graus.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\refint\Graus.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\Graus.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Graus\obj\Debug\net8.0\ref\Graus.dll
