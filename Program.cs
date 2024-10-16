@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-class Progam {
+class AreaCirculo {
     public static void Main(string[] args)
     {
         CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
