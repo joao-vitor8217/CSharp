@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\bin\Debug\net8.0\FuncionarioProgama.exe
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\bin\Debug\net8.0\FuncionarioProgama.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\bin\Debug\net8.0\FuncionarioProgama.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\bin\Debug\net8.0\FuncionarioProgama.dll
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\bin\Debug\net8.0\FuncionarioProgama.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.dll
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\refint\FuncionarioProgama.dll
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\FuncionarioProgama.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\FuncionarioProgama\obj\Debug\net8.0\ref\FuncionarioProgama.dll

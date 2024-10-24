@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\bin\Debug\net8.0\Poo1.exe
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\bin\Debug\net8.0\Poo1.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\bin\Debug\net8.0\Poo1.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\bin\Debug\net8.0\Poo1.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\bin\Debug\net8.0\Poo1.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\refint\Poo1.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\Poo1.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Poo1\obj\Debug\net8.0\ref\Poo1.dll

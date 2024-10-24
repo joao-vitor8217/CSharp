@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\bin\Debug\net8.0\Senha.exe
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\bin\Debug\net8.0\Senha.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\bin\Debug\net8.0\Senha.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\bin\Debug\net8.0\Senha.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\bin\Debug\net8.0\Senha.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\refint\Senha.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\Senha.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Senha\obj\Debug\net8.0\ref\Senha.dll

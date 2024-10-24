@@ -1,0 +1,15 @@
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\bin\Debug\net8.0\Cotacao.exe
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\bin\Debug\net8.0\Cotacao.deps.json
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\bin\Debug\net8.0\Cotacao.runtimeconfig.json
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\bin\Debug\net8.0\Cotacao.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\bin\Debug\net8.0\Cotacao.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.AssemblyInfoInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.AssemblyInfo.cs
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.csproj.CoreCompileInputs.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.sourcelink.json
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\refint\Cotacao.dll
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.pdb
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\Cotacao.genruntimeconfig.cache
+C:\Users\Joao Vitor\Desktop\CSharp\Cotacao\obj\Debug\net8.0\ref\Cotacao.dll
